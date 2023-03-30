@@ -1,4 +1,4 @@
-PERSONA.....
+PERSONA.....(i put too much effort of 1hr in this so dont judge me)😁
 
 
 their are no changes in public folder i just deleted logo default images of react and doesnt change manifest which is causing some error in my code but still itsworking.
