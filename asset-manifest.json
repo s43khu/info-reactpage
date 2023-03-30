@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shekhu/static/css/main.b6f9f0fd.css",
+    "main.css": "/shekhu/static/css/main.51eed185.css",
     "main.js": "/shekhu/static/js/main.90a1dd20.js",
     "static/media/mypic.jpg": "/shekhu/static/media/mypic.416cb1fe969c3eaaaeb3.jpg",
     "index.html": "/shekhu/index.html",
-    "main.b6f9f0fd.css.map": "/shekhu/static/css/main.b6f9f0fd.css.map",
+    "main.51eed185.css.map": "/shekhu/static/css/main.51eed185.css.map",
     "main.90a1dd20.js.map": "/shekhu/static/js/main.90a1dd20.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6f9f0fd.css",
+    "static/css/main.51eed185.css",
     "static/js/main.90a1dd20.js"
   ]
 }
