@@ -9,4 +9,4 @@ bugs known :
 4. About get enlarged on mobile screens when clicked in desktop mode.
 5. and sorry for spell mistakes.
 
-https://github.com/s43khu/shekhu
+https://github.io/s43khu/shekhu
