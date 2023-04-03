@@ -8,3 +8,5 @@ bugs known :
 3. on hovering education list in mobile mode container for hover effect is small. 
 4. About get enlarged on mobile screens when clicked in desktop mode.
 5. and sorry for spell mistakes.
+
+https://github.com/s43khu/shekhu
