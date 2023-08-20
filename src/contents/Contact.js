@@ -5,7 +5,7 @@ function Contact() {
             <div className="condiv">
             <h1 className="subtopic">Contact Me</h1>
             <h3>Email  :   s43khu@gmail.com</h3>
-            <h3>Instagram   :   @itz_shekhu</h3>
+            <h3>Instagram   :   @ig_shekhu</h3>
             <Social />
             </div>
             )
